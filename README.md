@@ -14,4 +14,4 @@ By accessing or using the data provided, you agree to the following terms and co
 > Immediately following the conclusion of the hackathon event, you are obligated to permanently and securely delete all copies of the data, including any derived or processed data, from all your devices, storage media, and systems. 
 
 ## Source of Data
-Tha data of this respository has been provided by [VZ VermögensZentrum AG](https://www.vermoegenszentrum.ch/)# renovation-forecast-for-real-estate
+The data of this respository has been provided by [VZ VermögensZentrum AG](https://www.vermoegenszentrum.ch/)# renovation-forecast-for-real-estate

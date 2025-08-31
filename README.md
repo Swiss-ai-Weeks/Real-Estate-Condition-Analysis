@@ -15,3 +15,31 @@ By accessing or using the data provided, you agree to the following terms and co
 
 ## Source of Data
 The data of this respository has been provided by [VZ VermögensZentrum AG](https://www.vermoegenszentrum.ch/)# renovation-forecast-for-real-estate
+
+## How to Download and Use This Repository (Linux)
+
+To download and use this repository with all data files (including those managed by Git LFS), follow these steps:
+
+1. **Clone the repository:**
+	```bash
+	git clone https://github.com/Swiss-ai-Weeks/Real-Estate-Condition-Analysis
+	cd Real-Estate-Condition-Analysis
+	```
+
+2. **Install Git LFS:**
+	```bash
+	sudo apt-get update
+	sudo apt-get install git-lfs
+	```
+
+3. **Initialize Git LFS:**
+	```bash
+	git lfs install
+	```
+
+4. **Download all LFS files:**
+	```bash
+	git lfs pull
+	```
+
+This will download all the files for this challenge, including large files tracked by Git LFS.
